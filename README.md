@@ -7,14 +7,14 @@ Features :
 2) Random Recipe Generator - "Get Random Recipe" button fetches a random meal.
 3) Responsive Design
 4) Recipe Details Modal Popup - Clicking a recipe opens a modal window. Modal shows:
-   -> Recipe name
-   -> Image
-   -> Category
-   -> Area (Cuisine)
-   -> Ingredients with measurements
-   -> Cooking instructions
-   -> YouTube recipe link
-   -> Original source link (if available)
+    -> Recipe name
+    -> Image
+    -> Category
+    -> Area (Cuisine)
+    -> Ingredients with measurements
+    -> Cooking instructions
+    -> YouTube recipe link
+    -> Original source link (if available)
 5) User Feedback Messages
    Informational messages:
       “Searching…”
