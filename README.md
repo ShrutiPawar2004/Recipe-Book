@@ -34,9 +34,16 @@ Features :
       API failures
 
 Technologies Used :
-1) HTML5 - HTML5 is used to structure the Recipe Book website. It defines the layout of the application, including the search form, buttons, recipe cards, and modal popup. Semantic elements improve readability      and accessibility of the web page.
-2) CSS3 - CSS3 is used to design and style the website. It provides responsive layouts using Flexbox and Grid, custom color themes using CSS variables, animations, hover effects, and modal transitions. CSS          ensures the website is visually appealing and mobile-friendly.
-3) Javascript (ES6) - JavaScript adds interactivity and dynamic behavior to the website. It is used to handle user events, fetch data asynchronously from APIs using fetch and async/await, manipulate the DOM         dynamically, and display recipe details in a modal window. ES6 features improve code efficiency and readability.
+1) HTML5
+   HTML5 is used to structure the Recipe Book website. It defines the layout of the application, including the search form, buttons, recipe cards, chatbot interface, and modal popup. Semantic elements improve       readability and accessibility of the web page.
+2) CSS3
+   CSS3 is used to design and style the website. It provides responsive layouts using Flexbox and Grid, custom color themes using CSS variables, animations, hover effects, chatbot UI styling, and modal              transitions. CSS ensures the website is visually appealing and mobile-friendly.
+3) JavaScript (ES6)
+   JavaScript is used to handle user interactions, manage chatbot UI behavior, communicate with APIs, fetch data asynchronously, manipulate the DOM dynamically, and display recipe details in modal popups. Modern    ES6 features improve code readability and efficiency.
+4) Hugging Face LLM
+   Hugging Face large language models are used to power the generalized chatbot. The LLM processes natural language user queries and generates intelligent, context-aware responses, enabling conversational           interaction beyond rule-based logic.
+5) Tavily API
+   Tavily is used to enhance the chatbot’s responses by retrieving relevant and up-to-date information. It enables real-time search and retrieval, allowing the chatbot to provide informative and accurate answers    based on external knowledge sources.
 
 How Website Works :
 1) User enters a recipe name or clicks Random Recipe.
